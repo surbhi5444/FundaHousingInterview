@@ -1,0 +1,19 @@
+Steps to Run the application:
+
+step 1. Click on the mentioned GitHub link to downlaod the solution: https://github.com/surbhi5444/FundaHousingInterview.git
+
+step 2. Once you download the solution, open the solution and right click on 'FundaHousing' Project  and select "Restore Nugest Packages"
+
+step 3. Run the solution (clt+f5)
+
+step 4.For Question 1> Determine which makelaar's in Amsterdam have the most object listed for sale. Make a table of the top 10.
+
+Run the application by appending the "/koop" to the url
+
+For example: For example: http://{YourLocalHostPort}/koop
+
+step 5. For Question 2> objects with a tuin which are listed for sale. 
+
+Run the application by appending the "/koop/amsterdam/tuin" to the url
+
+For example: http://{YourLocalHostPort}/koop/amsterdam/tuin 
